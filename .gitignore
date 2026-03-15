@@ -1,0 +1,10 @@
+node_modules/
+dist/
+demo.mp4
+preview.mp4
+*.mp4
+public/videos/
+public/sketches/
+public/baseline/
+public/outputs/
+.remotion/
